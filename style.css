@@ -63,6 +63,8 @@ p {
     text-transform: uppercase;
 }
 
+
+
 .numbers span {
     color: var(--stat-h);
     font-size: 1rem;
